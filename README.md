@@ -1,4 +1,4 @@
-# cenditel-beamer-template
+﻿# cenditel-beamer-template
 ----
 # Plantilla de presentaciones en Beamer (LaTeX) para CENDITEL
 
@@ -49,3 +49,5 @@ Maecenas sem neque, sagittis nec posuere nec, egestas facilisis arcu. Fusce id e
 
 \end{document}
 ```
+
+![preview.png](preview.png "Vista previa")
