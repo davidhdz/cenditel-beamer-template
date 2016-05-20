@@ -21,7 +21,7 @@ La página inicial permite las siguientes etiquetas:
 \title{Lorem Ipsum}
 \subtitle{Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...}
 \date{\today}
-\author{David Hernandez \texttt{david.vzla AT gmail.com}}
+\author{David Hernandez \texttt{<david.vzla AT gmail.com>}}
 
 % Presentacion
 \begin{document}
