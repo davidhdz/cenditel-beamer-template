@@ -1,2 +1,2 @@
 # cenditel-beamer-template
-Plantilla de presentaciónes para CENDITEL
+Plantilla de presentaciones para CENDITEL
